@@ -1,3 +1,8 @@
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![OpenGL](https://img.shields.io/badge/OpenGL-Graphics-green)
+![GLFW](https://img.shields.io/badge/GLFW-Windowing-orange)
+![GLEW](https://img.shields.io/badge/GLEW-Extensions-red)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 # 🎨 OpenGL Background Color Changer
 
 A simple OpenGL project written in **C++** using **GLFW** and **GLEW**.
