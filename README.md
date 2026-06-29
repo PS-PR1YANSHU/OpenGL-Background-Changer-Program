@@ -49,7 +49,7 @@ This project requires the following libraries:
 * GLEW
 * C++ Compiler (g++)
 
-All required project dependencies are included in this repository.
+All required project dependencies are included in this repository(Only for `main.exe`).
 
 ---
 
