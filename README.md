@@ -73,7 +73,7 @@ Compile using:
 g++ main.cpp -o main -lglew32 -lglfw3 -lopengl32
 ```
 
-Compile and run:
+Compile and run(powershell):
 
 ```powershell
 g++ main.cpp -o main -lglew32 -lglfw3 -lopengl32; if ($?) { .\main }
